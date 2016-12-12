@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Phalcon">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../html/vendor/phalcon/devtools/ide/stubs/Phalcon" />
+    </SOURCES>
+  </library>
+</component>
